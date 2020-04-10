@@ -4,5 +4,5 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
-        ../Téléchargements/semaphoresDoctor-master/Reprography.cpp
+        ../Reprography.cpp
 LIBS += -lpthread -lrt -lboost_system -lboost_thread
